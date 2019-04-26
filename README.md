@@ -2,11 +2,17 @@
 
 `个人小程序账号不允许视频相关内容SO小程序上线审核失败`
 
-h5部署到了服务器 [传送门](http://47.96.100.173/movie/)  （请使用手机访问）
+**效果示意图**
+
+<img src="https://raw.githubusercontent.com/hollyDysania/uni-app-first/master/static/img/56165.gif"/>
+
+**扫描二维码访问**
+
+<img src="https://raw.githubusercontent.com/hollyDysania/uni-app-first/master/static/img/1556174992.png" width="233"/>
 
 关于uni-app详见[官方文档](https://uniapp.dcloud.io/)
 
-**个人一点小心得**
+**个人一点小心得$**
 
 - 相当于是用vue的语法和小程序的标签及api进行开发
 - 有些组件或api不一定七端都支持，条件编译也是一大特点
